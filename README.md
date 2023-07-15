@@ -10,9 +10,11 @@ Realtime Face Recognition
    
 7) Save and run the script on your system to create the required pickle files and Attendance.csv file.
 8) Install OpenCV, numpy and Pandas in the virtual environment.
-9) Open main.py and set the attendance_csv_path:
-    ![Screenshot from 2023-07-15 15-13-11](https://github.com/Vaibhavi-29/Attendance-Tracker/assets/76783510/77a0a648-fc49-4bcd-8f64-f4a0c6f0e5ff)
-10) Save and run the script for inferencing using webcam.
-11) Result: 
+10) Open main.py and set the attendance_csv_path:
+
+![Screenshot from 2023-07-15 15-13-11](https://github.com/Vaibhavi-29/Attendance-Tracker/assets/76783510/77a0a648-fc49-4bcd-8f64-f4a0c6f0e5ff)
+    
+11) Save and run the script for inferencing using webcam.
+12) Result: 
 ![Screenshot from 2023-07-15 15-24-34](https://github.com/Vaibhavi-29/Attendance-Tracker/assets/76783510/1639b237-d6cd-4840-913f-dc01bf5bdf32)
 
