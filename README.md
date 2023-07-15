@@ -12,7 +12,7 @@ Realtime Face Recognition
 7) Install OpenCV, numpy and Pandas in the virtual environment.
 8) Open main.py and set the attendance_csv_path:
 
-  ![Screenshot from 2023-07-15 15-13-11](https://github.com/Vaibhavi-29/Attendance-Tracker/assets/76783510/77a0a648-fc49-4bcd-8f64-f4a0c6f0e5ff)
+   ![Screenshot from 2023-07-15 15-13-11](https://github.com/Vaibhavi-29/Attendance-Tracker/assets/76783510/77a0a648-fc49-4bcd-8f64-f4a0c6f0e5ff)
     
 9) Save and run the script for inferencing using webcam.
 10) Result: 
