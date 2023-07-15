@@ -48,10 +48,10 @@ while True:
 	small_frame = cv2.cvtColor(small_frame, cv2.COLOR_BGR2RGB)
 
 	# location of detected face(s)
-	face_locs = face_recognition.face_locations(smol_frame)
+	face_locs = face_recognition.face_locations(small_frame)
 
 	# calculating encoding of detected face(s)
-	face_encodes = face_recognition.face_encodings(smol_frame, face_locs)
+	face_encodes = face_recognition.face_encodings(small_frame, face_locs)
 
 	# no face encoding implies no face was detected
 	if len(face_encodes)==0:
